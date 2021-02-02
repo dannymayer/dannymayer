@@ -1,0 +1,27 @@
+{
+  "name": "dannymayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannymayer/dannymayer.git"
+  },
+  "keywords": [],
+  "author": "Danny Mayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannymayer/dannymayer/issues"
+  },
+  "homepage": "https://github.com/dannymayer/dannymayer#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}

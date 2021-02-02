@@ -1,6 +1,5 @@
 ---
-layout: layout.liquid
-pageTitle: This is my Title
+Title: This is my Title
 ---
 # First Post
 
