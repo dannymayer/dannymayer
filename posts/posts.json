@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "layout": "layout.liquid",
-=======
   "layout": "layouts/post-template.liquid",
->>>>>>> cda8d0f1e4f01e78e6fb94cc95f4d7d87bfe9da4
   "tags": [
     "posts"
   ]
